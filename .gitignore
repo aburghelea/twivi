@@ -21,7 +21,7 @@ build/
 target/
 adhoc/
 
-isi.ipr
+*.ipr
 *.iws
 *Db.properties
 *Db.script
@@ -29,6 +29,7 @@ isi.ipr
 .classpath
 .project
 eclipse
+/web-app/WEB-INF/
 /plugins
 /web-app/plugins
 /web-app/WEB-INF/classes
